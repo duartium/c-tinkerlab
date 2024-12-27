@@ -1,0 +1,38 @@
+# Archivos binarios y objetos
+*.o
+*.a
+*.so
+*.exe
+*.out
+*.dll
+
+# Archivos generados por el compilador
+*.d
+
+# Directorios de compilación
+build/
+cmake-build-debug/
+cmake-build-release/
+Debug/
+Release/
+
+# Archivos de registro
+*.log
+
+# Archivos temporales
+*.tmp
+*.temp
+*.swp
+
+# Archivos de configuración del editor/IDE
+*.idea/
+*.vscode/
+*.DS_Store
+*.user
+*.suo
+
+# Archivos de respaldo
+*~
+
+# Archivos de sesión
+*.session
